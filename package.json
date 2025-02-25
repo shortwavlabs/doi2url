@@ -1,0 +1,20 @@
+{
+  "name": "@swlabs/doi2url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doi2url.js",
+  "files": [
+    "doi2url.js"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.2",
+    "typescript": "^5.7.3"
+  }
+}
