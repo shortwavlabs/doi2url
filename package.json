@@ -1,10 +1,12 @@
 {
   "name": "@swlabs/doi2url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "doi2url.js",
   "files": [
-    "doi2url.js"
+    "doi2url.js",
+    "doi2url.d.ts",
+    "doi2url.d.ts.map"
   ],
   "author": "Shortwav Labs <contact@shortwavlabs.com>",
   "repository": {
