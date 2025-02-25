@@ -1,6 +1,6 @@
 {
   "name": "@swlabs/doi2url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "doi2url.js",
   "files": [
